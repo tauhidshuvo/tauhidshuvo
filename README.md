@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Tauhid Shuvo
 
-<!--
-**tauhidshuvo/tauhidshuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data analyst with hands-on experience in Excel, Power BI, SQL, and Python.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies:
+- Power BI, Excel
+- SQL, Python
+- A/B Testing, Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects:
+- 🚆 Railway Data Dashboard in Power BI
+- 📈 A/B Testing using Python
+- 📁 SQL Cohort Analysis
+
+## 📫 Let's Connect:
+- 🔗 [My Portfolio Website](https://tauhidshuvo.github.io/portfolio/)
+- 📧 Email: yourname@email.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
