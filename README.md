@@ -14,5 +14,5 @@ I'm an aspiring data analyst with hands-on experience in Excel, Power BI, SQL, a
 
 ## 📫 Let's Connect:
 - 🔗 [My Portfolio Website](https://tauhidshuvo.github.io/portfolio/)
-- 📧 Email: yourname@email.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: tauhidul12islam@email.com
+- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/tauhidulislamshuvo/)
